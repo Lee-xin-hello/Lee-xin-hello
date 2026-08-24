@@ -14,7 +14,7 @@
 <div align="center">
 
 <!-- 顶部打字机效果 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi+there%2C+I'm+lynnoli+%F0%9F%91%8B;AI+Agent+Developer+%40+Tencent;Building+intelligent+agents!&center=true&size=26)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&height=60&lines=Hi+there%2C+I'm+lynnoli+%F0%9F%91%8B;AI+Agent+Developer+%40+Tencent;Building+intelligent+agents!&center=true&size=24)](https://git.io/typing-svg)
 
 <div>&nbsp;</div>
 
