@@ -123,16 +123,11 @@
 <!-- 名言卡片（无需配置） -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
-<!-- WakaTime 编码语言统计：需要在 wakatime.com 生成分享图后，把下面的链接换成你自己的
-<table>
-  <tr>
-    <td><img src="你的 WakaTime 分享 SVG 链接1" width="500" alt="Wakatime"/></td>
-    <td><img src="你的 WakaTime 分享 SVG 链接2" width="500" alt="Wakatime"/></td>
-  </tr>
-</table>
--->
-
 </div>
+
+<!-- WakaTime 编码语言统计（由 waka.yml 工作流每天自动更新，需在仓库配置 WAKATIME_API_KEY 和 GH_TOKEN 两个 Secret） -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
