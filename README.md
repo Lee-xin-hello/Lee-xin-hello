@@ -45,13 +45,18 @@
 
 ### 🤺 About Me
 
-<p>&emsp;&emsp;嗨，你好，我是 <strong>lynnoli</strong>，一名 <strong>AI Agent Developer</strong>，目前在 Tencent 实习，坐标深圳。</p>
-<p>&emsp;&emsp;专注于智能体（AI Agent）的研发，热衷于用代码构建更智能的世界。</p>
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+
+<p>&emsp;&emsp;嗨，你好，我是 <strong>lynnoli</strong>。热爱编程、探索与分享。</p>
+<p>&emsp;&emsp;一名 <strong>AI Agent Developer</strong>，目前在 <strong>Tencent</strong> 实习，坐标深圳。</p>
+<p>&emsp;&emsp;专注于智能体（AI Agent）与大语言模型应用的研发，热衷于用代码把想法变成现实。</p>
+<p>&emsp;&emsp;相信技术的价值在于创造，希望能成为一名优秀的开发者，用代码让世界变得更好一点。</p>
 <p>&emsp;&emsp;<strong>Building intelligent agents, one commit at a time.</strong></p>
 
-- 🔭 正在做：AI Agent 相关的开发
+- 🔭 正在做：AI Agent 相关的研发与探索
 - 🌱 正在学：LangChain / LLM 应用工程化
 - 💬 技术栈：TypeScript · Python · JavaScript
+- ⚡ 兴趣：编程 · 阅读 · 前沿 AI 技术
 - 📫 联系我：1504622455@qq.com
 
 </td></tr>
