@@ -45,7 +45,7 @@
 
 ### 🤺 About Me
 
-<p>&emsp;&emsp;嗨，你好，我是 <strong>lynnoli</strong>，一名 <strong>AI Agent Developer</strong>，目前就职于 Tencent，坐标深圳。</p>
+<p>&emsp;&emsp;嗨，你好，我是 <strong>lynnoli</strong>，一名 <strong>AI Agent Developer</strong>，目前在 Tencent 实习，坐标深圳。</p>
 <p>&emsp;&emsp;专注于智能体（AI Agent）的研发，热衷于用代码构建更智能的世界。</p>
 <p>&emsp;&emsp;<strong>Building intelligent agents, one commit at a time.</strong></p>
 
