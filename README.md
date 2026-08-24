@@ -39,13 +39,11 @@
 
 # 🙋 Hello
 
-<table>
-
-<tr><td>
-
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<table>
+<tr>
+<td valign="top" width="72%">
 
 <p>&emsp;&emsp;嗨，你好，我是 <strong>lynnoli</strong>。热爱编程、探索与分享。</p>
 <p>&emsp;&emsp;一名 <strong>AI Agent Developer</strong>，目前在 <strong>Tencent</strong> 实习，坐标深圳。</p>
@@ -59,8 +57,13 @@
 - ⚡ 兴趣：编程 · 阅读 · 前沿 AI 技术
 - 📫 联系我：1504622455@qq.com
 
-</td></tr>
+</td>
+<td valign="top" width="28%" align="center">
 
+<img width="180" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+
+</td>
+</tr>
 </table>
 
 
@@ -80,12 +83,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-xin-hello&layout=compact&hide_border=true" height="180" />
 </picture>
 
-<!-- 连续打卡（Streak，无需配置） -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Lee-xin-hello&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Lee-xin-hello&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lee-xin-hello&theme=dark&hide_border=true" />
-</picture>
+<!-- 编程笑话卡片（无需配置，每次刷新随机） -->
+<img src="https://readme-jokes.vercel.app/api?theme=github&hideBorder" alt="Jokes Card" />
 
 <!-- 贡献活跃度曲线（无需配置） -->
 <picture>
