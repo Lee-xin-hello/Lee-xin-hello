@@ -1,0 +1,119 @@
+<!--
+============================================================
+  GitHub 个人主页 README —— lynnoli (Lee-xin-hello)
+============================================================
+  已根据你的主页信息填好。使用方法：
+  1. 新建一个名为 Lee-xin-hello 的仓库（与用户名同名），Public
+  2. 把本文件作为 README.md 上传到该仓库根目录
+  3. 把 .github/workflows/ 一起上传（贪吃蛇 / 3D 图会自动生成）
+  4. 到 Actions 里手动 Run 一次 snake 和 3d contrib 工作流
+  详见 SETUP.md
+============================================================
+-->
+
+<div align="center">
+
+<!-- 顶部打字机效果 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi+there%2C+I'm+lynnoli+%F0%9F%91%8B;AI+Agent+Developer+%40+Tencent;Building+intelligent+agents!&center=true&size=26)](https://git.io/typing-svg)
+
+<div>&nbsp;</div>
+
+<!-- 社交 / 联系方式徽章 -->
+<div>
+  <a href="mailto:1504622455@qq.com"><img src="https://img.shields.io/badge/Email-邮箱-D14836?logo=gmail&logoColor=fff" /></a>&emsp;
+  <img src="https://img.shields.io/badge/Location-Shenzhen,%20China-2088FF?logo=googlemaps&logoColor=fff" />&emsp;
+  <img src="https://img.shields.io/badge/Company-Tencent-07C160?logo=tencentqq&logoColor=fff" />&emsp;
+  <!-- 访问量统计 -->
+  <img src="https://komarev.com/ghpvc/?username=Lee-xin-hello&label=Views&color=orange&style=flat" alt="访问量统计" />
+</div>
+
+<!-- 贪吃蛇贡献图（需要 snake.yml 工作流，无需 Token） -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lee-xin-hello/Lee-xin-hello/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lee-xin-hello/Lee-xin-hello/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Lee-xin-hello/Lee-xin-hello/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+
+# 🙋 Hello
+
+<table>
+
+<tr><td>
+
+### 🤺 About Me
+
+<p>&emsp;&emsp;嗨，你好，我是 <strong>lynnoli</strong>，一名 <strong>AI Agent Developer</strong>，目前就职于 Tencent，坐标深圳。</p>
+<p>&emsp;&emsp;专注于智能体（AI Agent）的研发，热衷于用代码构建更智能的世界。</p>
+<p>&emsp;&emsp;<strong>Building intelligent agents, one commit at a time.</strong></p>
+
+- 🔭 正在做：AI Agent 相关的开发
+- 🌱 正在学：LangChain / LLM 应用工程化
+- 💬 技术栈：TypeScript · Python · JavaScript
+- 📫 联系我：1504622455@qq.com
+
+</td></tr>
+
+</table>
+
+
+<div align="center">
+
+<!-- GitHub 统计卡片（无需配置） -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Lee-xin-hello&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Lee-xin-hello&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lee-xin-hello&show_icons=true&hide_border=true&count_private=true" height="180" />
+</picture>
+
+<!-- 最常用语言统计 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-xin-hello&layout=compact&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-xin-hello&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-xin-hello&layout=compact&hide_border=true" height="180" />
+</picture>
+
+<!-- 连续打卡（Streak，无需配置） -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Lee-xin-hello&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Lee-xin-hello&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lee-xin-hello&theme=dark&hide_border=true" />
+</picture>
+
+<!-- 贡献活跃度曲线（无需配置） -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lee-xin-hello&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lee-xin-hello&theme=github-compact&hide_border=true" />
+</picture>
+
+</div>
+
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff&style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+
+<!-- 技能图标（skillicons） -->
+<img src="https://skillicons.dev/icons?i=ts,python,js,nodejs,react,git,docker,vscode" /><br>
+
+<!-- 3D 贡献图（需要 contrib.yml 工作流，无需 Token） -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lee-xin-hello/Lee-xin-hello/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lee-xin-hello/Lee-xin-hello/main/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://raw.githubusercontent.com/Lee-xin-hello/Lee-xin-hello/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+
+</div>

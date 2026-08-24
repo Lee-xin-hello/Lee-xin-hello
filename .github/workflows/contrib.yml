@@ -1,0 +1,26 @@
+# 3D 贡献图 —— 使用自带的 GITHUB_TOKEN，无需额外配置
+# 生成后图片位于 profile-3d-contrib/ 目录
+name: 3D Contrib
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated 3d contrib" || echo "nothing to commit"
+          git push

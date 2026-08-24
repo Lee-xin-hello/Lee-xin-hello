@@ -1,0 +1,21 @@
+# 博客 RSS 自动更新 —— 需要你有带 RSS 的博客
+# 会更新 README.md 中 <!-- feed start --> 与 <!-- feed end --> 之间的内容
+# 如果没有博客，可删除本文件
+name: Recent Blog
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-readme-feed
+    steps:
+      - uses: actions/checkout@v4
+      - uses: sarisia/actions-readme-feed@v1
+        with:
+          url: "https://你的博客地址/rss.xml"   # 改成你的 RSS 地址
+          file: "README.md"
+      - uses: sarisia/actions-commit@master
